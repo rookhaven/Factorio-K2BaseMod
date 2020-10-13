@@ -1,0 +1,9 @@
+{
+	"name": "K2_BaseMod",
+	"version": "1.0.0",
+	"title": "K2 Base Mod",
+	"author": "K2",
+	"homepage": "",
+	"description": "This mod modifies base game objects.",
+	"factorio_version": "1.0"
+}
